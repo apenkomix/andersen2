@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-<%@ page import="com.example.myuserss.model.User" %>
+<%@ page import="com.example.myusers.model.User" %>
 <%@ page import="java.util.List" %>
 <html>
 <body>
