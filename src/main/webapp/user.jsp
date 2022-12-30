@@ -11,7 +11,6 @@
 <section>
     <h2>Users</h2>
     <button><a href="${pageContext.request.contextPath}/user?action=create">Add User</a></button>
-    <%--    <a href="user?action=create">Add User</a>--%>
     <br><br>
     <table border="1" cellpadding="8" cellspacing="0">
         <thead>
